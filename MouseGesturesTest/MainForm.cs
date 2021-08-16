@@ -145,7 +145,7 @@ namespace MouseGesturesTest {
                             Process.Start("https://auth.udacity.com/sign-in?next=https%3A%2F%2Fclassroom.udacity.com%2Fauthenticated");
                             break;
                         case "RD":
-                            Process.Start("https://github.com/sheetal1996");
+                            Process.Start("https://github.com/dikshuuu");
                             break;
                         case "LD":
                             Process.Start("explorer.exe");

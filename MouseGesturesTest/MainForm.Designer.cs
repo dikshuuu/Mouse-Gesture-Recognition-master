@@ -545,8 +545,8 @@ namespace MouseGesturesTest {
       this.Controls.Add(this.label2);
       this.Controls.Add(this.label1);
       this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-      this.Icon = new System.Drawing.Icon("E:/Sheetal/Projects/MouseGestureRecognition/MouseGesturesTest/Resources/icon.ico");
-            //new System.Drawing.Icon("E:/Sheetal/Projects/MouseGestureRecognition/MouseGesturesTest/Resources/icon.ico");
+      this.Icon = new System.Drawing.Icon("E:/Diksha/Projects/MouseGestureRecognition/MouseGesturesTest/Resources/icon.ico");
+            //new System.Drawing.Icon("E:/Diksha/Projects/MouseGestureRecognition/MouseGesturesTest/Resources/icon.ico");
             //(( System.Drawing.Icon )(resources.GetObject("Resources/Icon1.ico")));
             this.MaximizeBox = true;
       this.MinimizeBox = true;
